@@ -1,0 +1,1 @@
+export { CardPrueba } from './src/CardPrueba.js';
