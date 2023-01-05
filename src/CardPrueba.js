@@ -32,7 +32,7 @@ export class CardPrueba extends LitElement {
       name: { type: String, },
       title: { type: String, },
       info: { type: String, },
-      listItem: { type: Array, atribute: 'list-items' },
+      listItem: { type: Array, attribute: 'list-items' },
       buttonName: {type: String, attribute: 'button-name'}
     };
   }
