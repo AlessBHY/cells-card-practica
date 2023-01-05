@@ -49,7 +49,7 @@ export class CardPrueba extends LitElement {
       {
         icon: '',
         description:''
-      }
+      },
     ];
     this.buttonName = '';
   }
